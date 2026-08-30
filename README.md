@@ -1,30 +1,7 @@
-# Operations Research and Machine Learning for Optimization
+# Data
 
-## Overview
+The final research version should use a documented public demand/sales dataset.
 
-This project explores the application of Machine Learning and Operations Research techniques to optimization and data-driven decision-making problems.
+No fabricated research results are included in this repository. Place the public CSV used for the final experiment here and document its source, license, preprocessing, and date range.
 
-## Objectives
-
-- Formulate an optimization problem.
-- Apply Operations Research techniques to the problem.
-- Explore how Machine Learning can support optimization and decision-making.
-- Analyze and interpret the results.
-
-## Methods
-
-- Operations Research
-- Mathematical Optimization
-- Linear Programming
-- Machine Learning
-- Python
-
-## Project Structure
-
-- `notebooks/` - Analysis and experiments
-- `data/` - Dataset used in the project
-- `results/` - Results and visualizations
-
-## Tools
-
-Python and relevant scientific computing and machine learning libraries.
+For a demonstration, the notebook can generate a small synthetic dataset; it must be clearly labeled as synthetic and not presented as empirical research evidence.
